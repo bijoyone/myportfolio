@@ -13,6 +13,7 @@ My Portfolio: <br /> https://ibrahim-hussain.netlify.app/
 Live Demo:<br />
 https://thefitclubs.netlify.app/
 <br />
+<br />
 Github:<br />
 https://github.com/bijoyone/fitclub
 
@@ -20,6 +21,7 @@ https://github.com/bijoyone/fitclub
 ### React E-commerce clothing store
 Live Demo:<br />
 https://trendclothing.netlify.app/
+<br />
 <br />
 Github:<br />
 https://github.com/bijoyone/trend-clothing
@@ -31,6 +33,7 @@ https://github.com/bijoyone/trend-clothing
 ### Full Stack Pizza Delivery App
 Live Demo:<br />
 https://pizza-shop-king.vercel.app/
+<br />
 <br />
 Github:<br />
 https://github.com/bijoyone/pizza
