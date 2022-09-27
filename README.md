@@ -10,18 +10,18 @@ My Portfolio: https://ibrahim-hussain.netlify.app/
 ## React Projcts
 
 ### React Gym App 
-Live Demo: 
+Live Demo:  
 https://thefitclubs.netlify.app/
 <br />
-Github:\
+Github:  
 https://github.com/bijoyone/fitclub
 
 
 ### React E-commerce clothing store
-Live Demo: 
+Live Demo:  
 https://trendclothing.netlify.app/
 <br />
-Github:
+Github:  
 https://github.com/bijoyone/trend-clothing
 
 ```
@@ -29,8 +29,8 @@ https://github.com/bijoyone/trend-clothing
 ## Full Stack Projects
 
 ### Full Stack Pizza Delivery App
-Live Demo: 
+Live Demo:  
 https://pizza-shop-king.vercel.app/
 <br />
-Github: 
+Github:  
 https://github.com/bijoyone/pizza
